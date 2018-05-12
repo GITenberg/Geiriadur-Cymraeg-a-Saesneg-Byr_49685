@@ -1,4 +1,8 @@
 _repo: Geiriadur-Cymraeg-a-Saesneg-Byr_49685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edwards, Owen Morgan, Sir
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1144
     wikipedia: http://en.wikipedia.org/wiki/Owen_Morgan_Edwards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49685#Geiriadur-Cymraeg-a-Saesneg-Byr
 gutenberg_issued: '2015-08-11'
 gutenberg_type: Text
 identifiers:
